@@ -1,0 +1,12 @@
+# Virtual environments
+/pandas/
+/.venv/
+/venv/
+/env/
+
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Jupyter-generated files
+.ipynb_checkpoints/
